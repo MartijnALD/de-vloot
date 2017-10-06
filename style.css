@@ -1,0 +1,138 @@
+img {
+    float: left; 
+    padding-right: 3%;
+    padding-left: 0%;
+    padding-bottom: 3%;
+}
+
+
+ul {
+    Margin: 0;
+    padding: 20px;
+    float: left;
+    list-style-type: none;
+    padding-top: 140px;
+    color: white;
+    top: 10%;
+    position: absolute;
+}
+
+h1 {
+    font-family: sans-serif;
+    padding-left: 3%;
+    padding-top: 3%;
+    margin: 0;
+}
+
+
+
+p {
+    font-family: sans-serif;
+    line-height: 150%;
+    padding-left: 3%;
+    padding-right: 3%;
+    word-spacing: 2px;
+
+}
+
+body {
+    background-image: url("css/grfx/bg.png") ;
+    margin: 0;
+    padding: 0;
+    background-repeat: repeat-x;
+}
+
+header {
+    width: 800px;
+    height: 268px;
+    margin: auto;
+    background: url("css/grfx/header.jpg");
+}
+
+div {
+    margin: auto;
+    width: 800px;
+    background: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+    
+}
+
+ h2 {
+     margin: 0;
+     padding: 0;
+     text-align: left;
+     padding-top: 3%;
+     padding-left: 3%;
+     font-family: Arial;
+     
+ }
+
+h2.header {
+    float: left;
+}
+
+ul li a:hover {
+    color: lightblue;
+    
+}
+
+.active {
+    color: black;
+
+
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0 10px;
+    display: inline;
+    color: white;
+}
+
+ul li a {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-family: Arial;
+
+}
+
+.header {
+    top: 5%;
+    position: absolute;
+    left: 27.5%;
+    font-family: Arial;
+}
+
+.vloot2 {
+    float: right;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.vloot3 {
+    float: left;
+    margin-left: 25px;
+}
+.vloot12 {
+    float: right;
+    margin-left: 25px;
+}
+
+
+.vloot5 {
+    float: right;
+    margin-left: 25px;
+}
+
+.vloot6 {
+    padding-left: 25px;
+}
+
+.vloot9 {
+    padding-left: 23px;
+}
